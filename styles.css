@@ -18,8 +18,8 @@ p{
     display: inline-block;
     position: relative;
     background-color: hsl(0, 0%, 100%);
-    width: 280px;
-    height: 430px;
+    width: 300px;
+    height: 470px;
     border-radius: 15px;
     margin: 150px auto;
   }
@@ -30,18 +30,19 @@ p{
     position: relative;
     font-size: 1.3125em;
     font-weight: 700;
-    margin: 0px 20px;
+    margin: 0px 30px;
   }
   .desc2{
     display: inline-block;
-    position: relative;;
+    position: relative;
     padding: 0 25px;
     font-weight: 400;
+    margin: 15px auto;
   }
 
   .qrcode{
     border-radius: 25px;
-    width: 250px;
-    height: 250px;
+    width: 270px;
+    height: 270px;
     padding: 15px;
   }
